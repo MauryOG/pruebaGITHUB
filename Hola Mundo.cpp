@@ -6,6 +6,7 @@ main()
 	char nombre[50];
 	int s;
 	int a,b,c;
+	int cant;
 
 	printf("Hola mundo");
 	puts("Segunda Linea");
@@ -21,6 +22,9 @@ main()
 	printf("La esta de los dos numeros es: %i",s);
 	c = a + b;
 	printf("La suma de los dos numeros es: %i",c);
+	
+	cant = s = c;
+	printf("La cantidad Exacta es: %i",cant);
 	
 	push("docente");
 	push("aula");
