@@ -4,6 +4,8 @@
 main()
 {
 	char nombre[50];
+	int a,b,c;
+		
 	printf("Hola mundo");
 	puts("Segunda Linea");
 	puts("Tercer Linea");
@@ -13,6 +15,9 @@ main()
 	
 	printf("Ingrese su nombre");
 	scanf("%s",&nombre);
+	
+	c = a + b;
+	printf("La suma de los dos numeros es: %i",c);
 	
 	ptinf
 	
