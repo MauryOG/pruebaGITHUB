@@ -4,6 +4,7 @@
 main()
 {
 	char nombre[50];
+	int s;
 	printf("Hola mundo");
 	puts("Segunda Linea");
 	puts("Tercer Linea");
@@ -14,7 +15,8 @@ main()
 	printf("Ingrese su nombre");
 	scanf("%s",&nombre);
 	
-	ptinf
+	s = a - b;
+	printf("La esta de los dos numeros es: %i",s);
 	
 	getch();
 	return 0;
