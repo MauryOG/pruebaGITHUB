@@ -4,6 +4,7 @@
 main()
 {
 	printf("Hola mundo");
+	puts("Segunda Linea");
 	
 	getch();
 	return 0;
