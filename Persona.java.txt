@@ -1,0 +1,13 @@
+public class Persona
+{
+  private String nombre;
+  private String dui;
+
+
+  public class Persona()
+  {
+    this.nombre=nombre;
+    this.dui=dui;
+  }
+
+}
